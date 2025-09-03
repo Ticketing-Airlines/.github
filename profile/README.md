@@ -9,25 +9,31 @@ open cmd prompt
 
 navigate to where you want to copy code (e.g. to save in desktop, type cd desktop)
 
+
+
 type:
 
   git clone (url of the repo)
   
   cd (name of the folder of the repo that you copied)
   
+  
 
    
 2. Branch - before you code always create a new branch, name it "feature" or "whatever-are-you-codihg-about"
+
    
 type:
 
   git checkout -b (name of the new branch)
   
 
+
 to check what branch u are on, type:
 
   git status
   
+
    
 3. Do your code
    
@@ -37,6 +43,8 @@ to check what branch u are on, type:
    git add .
    
    git commit -m "label"
+
+   
    
 please use the following pattern for labeling ur commits:
 
@@ -48,9 +56,12 @@ chore - others
 
 e.g. git commit -m "fix: fixed this bug" or git commit -m "feat: added this feature"
 
+
+
 finally, type:
 
    git push remote origin
+   
    
 
 5. Make a pull request
