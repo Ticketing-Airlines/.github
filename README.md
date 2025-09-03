@@ -1,1 +1,1 @@
-# .github
+#How to navigate github
