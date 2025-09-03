@@ -3,6 +3,7 @@ How to navigate github
 
 Step by step guide to github
 1. Repository - check if you are at the correct repository (e.g. Ticketing-Airlines/Backend)
+   
 open cmd prompt
 navigate to where you want to copy code (e.g. to save in desktop, type cd desktop)
 type:
@@ -10,7 +11,7 @@ type:
   cd (name of the folder of the repo that you copied)
 
    
-2. Branch - before you code always create a new branch, name it "feature" or "whatever-are-you-codihg-about"
+3. Branch - before you code always create a new branch, name it "feature" or "whatever-are-you-codihg-about"
 type:
   git checkout -b (name of the new branch)
 
